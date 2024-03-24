@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP SMTP Configurator
  * Description: Configure SMTP settings for WordPress.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Davide Milani
  * Author URI: https://www.milanidavide.com/
  * License: BSD-3-Clause license

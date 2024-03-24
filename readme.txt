@@ -11,10 +11,16 @@ WP SMTP Configurator is a WordPress plugin that allows users to configure SMTP c
 
 == Changelog ==
 
+= 0.1.1 =
+* Prevent accidental update overrides with WordPress.org plugins
+
 = 0.1.0 =
 * Initial release.
 
 == Upgrade Notice ==
+
+= 0.1.1 =
+* Prevent accidental update overrides with WordPress.org plugins
 
 = 0.1.0 =
 * This is the first release of the plugin.
